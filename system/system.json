@@ -3,9 +3,9 @@
     "title": "Blank System Example",
     "description": "An example of a basic system and character sheet for Foundry VTT.",
     "author": "SpandexAndy",
-    "version": 1.01,
+    "version": 0.2,
     "minimumCoreVersion": "0.6.4",
-    "compatibleCoreVersion": "0.6.4",
+    "compatibleCoreVersion": "9.249",
     "scripts": ["BlankSystem.js"],
     "styles": ["BlankSystem.css"],
     "packs": [],
@@ -14,4 +14,7 @@
     "gridUnits": "ft",
     "primaryTokenAttribute": "hp",
     "initiative": "1d20",
+    "url": "https://github.com/SpandexAndy/BlankSystem",
+    "manifest": "https://github.com/SpandexAndy/BlankSystem/releases/latest/download/system.json",
+    "download": "https://github.com/SpandexAndy/BlankSystem/releases/latest/download/BlankSystem.zip"    
 }
