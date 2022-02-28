@@ -1,4 +1,17 @@
 {
-    "Actor": {},
+    "Actor": {
+		"types": ["player","npc"],
+		"player": {
+			"description": "",
+			"hp": {
+				"value": 10,
+				"max": 10
+			}
+		},
+		"npc": {
+			"description": "",
+			"rank": 1
+		}
+	},
     "Item": {}
 }
